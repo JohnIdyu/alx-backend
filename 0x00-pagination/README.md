@@ -2,9 +2,9 @@
 
 | `Back-end` |
 
-![meme1](./images/meme1.png)
-![meme2](./images/meme2.png)
-![meme3](./images/meme3.png)
+!https://github.com/JohnIdyu/alx-backend/raw/master/0x00-pagination/images/meme1.png
+!https://github.com/JohnIdyu/alx-backend/raw/master/0x00-pagination/images/meme2.png
+!https://github.com/JohnIdyu/alx-backend/raw/master/0x00-pagination/images/meme3.png
 
 ## Resources
 

@@ -2,7 +2,7 @@
 
 | `Back-end` |
 
-![https://github.com/JohnIdyu/alx-backend/raw/master/0x00-pagination/meme1.png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230225T013116Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=96e2e4e72d6a7e3b1b6e054838c2831176302885956954de2e719ddab2b378a6)
+!https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230225T013116Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=96e2e4e72d6a7e3b1b6e054838c2831176302885956954de2e719ddab2b378a6
 !https://github.com/JohnIdyu/alx-backend/raw/master/0x00-pagination/meme2.png
 !https://github.com/JohnIdyu/alx-backend/raw/master/0x00-pagination/meme3.png
 
